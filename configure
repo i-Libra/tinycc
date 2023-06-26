@@ -314,7 +314,7 @@ Usage: configure [options]
 Options: [defaults in brackets after descriptions]
 
 Standard options:
-  --help                   print this message
+  --help                   print help message
   --prefix=PREFIX          install in PREFIX [$prefix]
   --exec-prefix=EPREFIX    install architecture-dependent files in EPREFIX
 			   [same as prefix]
